@@ -43,9 +43,9 @@
 # [관련 이미지 & 동영상]
 
 - 이미지
-  <img src="cho.jpg" width = "100">
+  <img src="cho.jpg">
 - 동영상
-  [![](./cho.jpg)](https://www.youtube.com/watch?v=5xy4n73WOMM)
+  (https://www.youtube.com/watch?v=5xy4n73WOMM)
 
 <br><br>
 
