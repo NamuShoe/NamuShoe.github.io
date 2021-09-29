@@ -45,7 +45,7 @@
 - 이미지
   <img src="cho.jpg" width = "100">
 - 동영상
-  [![](./img/그림.png)](https://www.youtube.com/watch?v=5xy4n73WOMM)
+  [![](./cho.jpg)](https://www.youtube.com/watch?v=5xy4n73WOMM)
 
 <br><br>
 
