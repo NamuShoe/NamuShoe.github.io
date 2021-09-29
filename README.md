@@ -45,7 +45,7 @@
 - 이미지
   <img src="cho.jpg">
 - 동영상
-  <iframe width="1278" height="719" src="https://www.youtube.com/embed/O2HnvpXqII4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=O2HnvpXqII4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <br><br>
 
