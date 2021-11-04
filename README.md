@@ -267,6 +267,12 @@
 
 ## 1주차
 
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="black.png">
+    <source src="video/1주차.mkv" type="video/mkv">
+  </video>
+</figure>
+
 <br>
 
 ## 2주차
