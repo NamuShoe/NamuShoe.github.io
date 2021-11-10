@@ -277,6 +277,14 @@
 
 ## 2주차
 
+<video width="320" height="240" controls>
+  <source src="./video/2주차.mkv" type="video/mkv">
+</video>
+
 <br>
 
 ## 3주차
+
+<video width="320" height="240" controls>
+  <source src="./video/3주차.mkv" type="video/mkv">
+</video>
