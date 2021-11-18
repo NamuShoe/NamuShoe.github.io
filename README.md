@@ -269,29 +269,19 @@
 
 ## 1주차
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="black.png">
-    <source src="./video/1주차.mkv" type="video/mkv">
-  </video>
-</figure>
-
+https://user-images.githubusercontent.com/91230490/142336540-1ecb6836-ec4b-4609-bf6f-a5f9c26dc0e1.mp4
 
 <br>
 
 ## 2주차
 
-<video width="320" height="240" controls>
-  <source src="./video/2주차.mkv" type="video/mkv">
-</video>
-
+https://user-images.githubusercontent.com/91230490/142336550-3da2e2d2-52bf-4bce-8e4f-310cccea670c.mp4
 
 <br>
 
 ## 3주차
 
-<video width="320" height="240" controls>
-  <source src="./video/3주차.mkv" type="video/mkv">
-</video>
+https://user-images.githubusercontent.com/91230490/142336558-50c74bf2-8883-46c6-8d0d-737060280c4d.mp4
 
 <br>
 
