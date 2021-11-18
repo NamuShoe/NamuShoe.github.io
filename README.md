@@ -273,8 +273,6 @@
   <source src = "./video/1주차.mp4" type = "video/mp4">
 </video>
 
-https://user-images.githubusercontent.com/91230490/142336540-1ecb6836-ec4b-4609-bf6f-a5f9c26dc0e1.mp4
-
 <br>
 
 ## 2주차
@@ -282,8 +280,6 @@ https://user-images.githubusercontent.com/91230490/142336540-1ecb6836-ec4b-4609-
 <video width = "100%" height = "100%" controls="controls">
   <source src = "./video/2주차.mp4" type = "video/mp4">
 </video>
-
-https://user-images.githubusercontent.com/91230490/142336550-3da2e2d2-52bf-4bce-8e4f-310cccea670c.mp4
 
 <br>
 
@@ -293,8 +289,6 @@ https://user-images.githubusercontent.com/91230490/142336550-3da2e2d2-52bf-4bce-
   <source src = "./video/3주차.mp4" type = "video/mp4">
 </video>
 
-https://user-images.githubusercontent.com/91230490/142336558-50c74bf2-8883-46c6-8d0d-737060280c4d.mp4
-
 <br>
 
 ## 4주차
@@ -302,5 +296,3 @@ https://user-images.githubusercontent.com/91230490/142336558-50c74bf2-8883-46c6-
 <video width = "100%" height = "100%" controls="controls">
   <source src = "./video/4주차.mp4" type = "video/mp4">
 </video>
-
-https://user-images.githubusercontent.com/91230490/142336014-2af8fefd-6ce5-4d66-a11b-7e177bbe3aa0.mp4
