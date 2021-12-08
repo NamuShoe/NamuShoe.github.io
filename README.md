@@ -261,7 +261,7 @@
 
 ## 03 게임작업일정
 
-<img src = "./img/제작일정1.PNG" width = "700">
+<img src = "./img/제작일정.PNG" width = "700">
 
 <br>
 
