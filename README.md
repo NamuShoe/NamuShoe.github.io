@@ -309,4 +309,4 @@
 
 <video width = "100%" height = "100%" controls="controls">
   <source src = "./video/6주차.mp4" type = "video/mp4">
-</video>xxxxxxxxxx <video width = "100%" height = "100%" controls="controls">  <source src = "./video/6주차.mp4" type = "video/mp4"></video>
+</video>
