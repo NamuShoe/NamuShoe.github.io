@@ -46,7 +46,7 @@
 
 # [대표 이미지]
 
-![그림](./img/main_image.)
+![그림](./img/main_image.png)
 
 <br><br>
 
